@@ -1,0 +1,428 @@
+/*==========================================================================================
+	
+Main theme styles
+This file contains all styles for GIOSS theme
+
+==========================================================================================*/
+
+/*----------------------------------------------------*/
+/*	Common
+*/
+
+section {
+	float:right;
+}
+
+/*----------------------------------------------------*/
+/*	Wrappers & other
+*/
+
+.clear {
+	float:right;
+}
+
+.space {
+	float:right;
+}
+
+.page-title.float {
+	float:right;
+}
+
+.page-title .border {
+	right:50%;
+	margin-right:-50px;
+	left: auto;
+	margin-left: auto;
+}
+
+/*----------------------------------------------------*/
+/*	Header
+*/
+
+/*----------------------------------------------------*/
+/*	Preloader
+*/
+
+/*----------------------------------------------------*/
+/*	Carousel
+*/
+
+.prev {
+	right:150px;
+	left: auto;
+}
+
+.next {
+	left:150px;
+	right: auto;
+}
+
+/* pattern */
+.pattern {
+	right:0px;
+	left:0;
+}
+
+.scroll-btn {
+	right:50%;
+	margin-right:-20px;
+	left: auto;
+	margin-left: auto;
+}
+
+/* scroll button animation */
+
+/*----------------------------------------------------*/
+/*	Customers
+/*----------------------------------------------------*/
+.customers {
+	float:right;
+}
+
+.customers li {
+	float:right;
+}
+
+.customers li .over {
+	right:0;
+	left: auto;
+}
+
+/*----------------------------------------------------*/
+/*	Screenshots
+/*----------------------------------------------------*/
+.gray {
+	float:right;
+}
+
+.screens {
+	float:right;
+}
+
+.screens .center {
+	float:right;
+	right:50%;
+	margin-right:-300px;
+	left: auto;
+	margin-left: auto;
+}
+
+.screens .right {
+	float:right;
+	right:300px;
+	left: auto;
+}
+
+.screens .left {
+	float:right;
+	left:300px;
+	right: auto;
+}
+
+/*----------------------------------------------------*/
+/*	Navigation
+/*----------------------------------------------------*/
+#navigation {
+	float:left;
+}
+
+#navigation li span.border {
+	right:0;
+	left: auto;
+}
+
+/* navigation submenu */
+#navigation ul {
+	text-align:right;
+}
+
+/* navigation sub sub menu */
+#navigation ul li ul {
+	right:190px;
+	left: auto;
+}
+
+/*----------------------------------------------------*/
+/*	Logo
+/*----------------------------------------------------*/
+#logo {
+	float:right;
+}
+
+#logo .label {
+	right:0;
+	left: auto;
+}
+
+/*----------------------------------------------------*/
+/*	Portfolio
+*/
+
+#portfolio-box .spinner {
+	
+}
+
+#portfolio {
+	float:right;
+}
+
+#portfolio li {
+	float:right;
+}
+
+#portfolio li a {
+	float:right;
+}
+
+#portfolio .item {
+	float:right;
+	right:0;
+	left: auto;
+}
+
+#portfolio .item img {
+	float:right;
+}
+
+#portfolio .item .over {
+	right:0;
+	left: auto;
+}
+
+#portfolio .more {
+	right:50%;
+	margin-right:-20px;
+	left: auto;
+	margin-left: auto;
+}
+
+#portfolio .more span {
+	right:14px;
+	left: auto;
+}
+
+#portfolio .item.ajax {
+	right:-150px;
+	left: auto;
+}
+
+.pf-top {
+	float:right;
+}
+
+.pf-right {
+	float:right;
+	margin-left:6%;
+	margin-right: auto;
+}
+
+.pf-left {
+	float:right;
+}
+
+/*----------------------------------------------------*/
+/*	About
+/*----------------------------------------------------*/
+/* facts */
+#about .facts {
+	float:right;
+}
+
+#about .facts .break {
+	margin-right:15px;
+	margin-left:9px;
+}
+
+/* references */
+#about .references {
+	float:right;
+}
+
+/* charts */
+.charts {
+	float:right;
+}
+
+.chart span {
+	right:35px;
+	left: auto;
+}
+
+.chart:first-child {
+	margin-right:0;
+	margin-left: auto;
+}
+
+.chart:last-child {
+	margin-left:0;
+	margin-right: auto;
+}
+
+/* team */
+#team {
+	float:right;
+}
+
+#team .members li {
+	margin:0 0 20px 20px;
+}
+
+#team .members li:nth-child(4n) {
+	margin-left:0;
+	margin-right: auto;
+}
+
+#team .info {
+	right:0;
+	left: auto;
+}
+
+#team .info:after {
+	right: 50%;
+	margin-right: -13px;
+	left: auto;
+	margin-left: auto;
+}
+
+/* team hover animation */
+
+/*----------------------------------------------------*/
+/*	Services
+/*----------------------------------------------------*/
+#services {
+	float:right;
+}
+
+#services .gray {
+	float:right;
+}
+
+/* core */
+
+#core .core-values li .fa {
+	right:131px;
+	left: auto;
+}
+
+#services .touch {
+	float:right;
+}
+
+#services .testimonial {
+	float:right;
+}
+
+/*----------------------------------------------------*/
+/*	Contacts
+*/
+
+#contacts {
+	float:right;
+}
+
+#contacts .navigation {
+	right:10px;
+	left: auto;
+}
+
+#contacts .marker-label {
+	right:175px;
+	left: auto;
+}
+
+/* contacts form */
+#contacts .get-in-touch {
+	right:0;
+	left:50%;
+	margin-left:62px;
+	margin-right: auto;
+}
+
+#contacts .get-in-touch .col {
+	float:right;
+	margin-right:1.8003%;
+	margin-left: auto;
+}
+
+#contacts .text {
+	left:50%;
+	margin-left:-517px;
+	right: auto;
+	margin-right: auto;
+}
+
+/*----------------------------------------------------*/
+/*	Project inner page
+*/
+
+.project-inner .owl-inner {
+	float:right;
+}
+
+.project-inner.gallery {
+	float:right;
+}
+
+.project-inner.gallery .owl-prev {
+	right:50px;
+	left: auto;
+}
+
+.project-inner.gallery .owl-next {
+	left:50px;
+	right: auto;
+}
+
+.review {
+	float:right;
+}
+
+.review .right {
+	float:right;
+}
+
+.review .left {
+	margin-right:3%;
+	float:right;
+	margin-left: auto;
+}
+
+.bar {
+	text-align:right;
+}
+
+.bar li span strong {
+	right:10px;
+	left: auto;
+}
+
+/*----------------------------------------------------*/
+/*	Go to top button
+/*----------------------------------------------------*/
+#go-top {
+	left:0;
+	right: auto;
+}
+
+#go-top.bottom {
+	left:0;
+	right: auto;
+}
+
+/*----------------------------------------------------*/
+/*	Transitions
+*/
+
+/*----------------------------------------------------*/
+/*	Rotation
+*/
+
+/*----------------------------------------------------*/
+/*	Footer
+/*----------------------------------------------------*/
+#footer {
+	float:right;
+}
+
+
